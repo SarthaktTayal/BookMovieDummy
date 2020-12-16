@@ -49,6 +49,31 @@ border-top-right-radius: 10px;
 background-color:  rgb(99, 99, 192);
 
 }
+.seat.selected1{
+
+    background-color:  rgb(99, 99, 192);
+    
+    }
+
+.seat.selected2{
+
+    background-color:  rgb(99, 99, 192);
+    
+}
+
+.seat.selected3{
+
+    background-color:  rgb(99, 99, 192);
+    
+    }
+
+.seat.selected4{
+
+    background-color:  rgb(99, 99, 192);
+        
+}
+
+
 .seat.occupied{
 
 background-color:greenyellow;
@@ -97,4 +122,9 @@ box-shadow: 0px 3px 10px rgb(255, 255, 255, 0.7);
     }
 p.text span{
     color: rgb(134, 118, 236);
+}
+
+
+#hidden_div {
+    display: none;
 }
